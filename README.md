@@ -35,4 +35,3 @@ The game follows a clean separation of concerns:
   **ABoxSpawner (C++)**: Handles the JSON and fetches the data to spawn the boxes
 - **Enhanced Input System**: Modern UE5 input handling for responsive controls
 
-### Core Game Loop
